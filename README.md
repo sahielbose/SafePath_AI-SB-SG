@@ -11,5 +11,3 @@ The dataset undergoes rigorous preprocessing, including feature selection, missi
 This project is designed for scalability, allowing further refinement through feature engineering and model tuning. It can be expanded with additional data sources, such as social media sentiment analysis or clinical records, to improve predictive capabilities. The goal is to create an AI-assisted tool that can aid professionals in recognizing early warning signs and implementing timely interventions.
 
 To use the project, users can clone the repository, install dependencies, and run the provided Jupyter Notebook. The workflow includes data loading, preprocessing, model training, and evaluation. Contributions from researchers and developers are encouraged to enhance model performance and expand its applicability.
-
-This project is open-source under the MIT License, making it accessible for further development and integration. If you are interested in collaborating or have questions, feel free to reach out. We hope this initiative contributes to the ongoing efforts in mental health support and suicide prevention.
